@@ -1,0 +1,10 @@
+.container{
+  background-color: white; 
+  padding-bottom: 30px;
+  width: 40%;
+  text-align: centre;
+}
+body{
+  background-color: rgb(203 213 225 / var(--tw-bg-opacity, 1));
+  ;
+}
